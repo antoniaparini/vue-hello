@@ -1,0 +1,18 @@
+//GENERAL STYLES
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.img {
+    margin-left: 20px;
+}
+
+.btn {
+    margin-left: 20px;
+    margin-top: 40px;
+}
